@@ -68,6 +68,13 @@ src/
 └── App.tsx        # Main application component
 ```
 
+## ⚙️ System Architecture
+The system architecture design can be found at
+```
+src/
+├── assets/flow.png    # Open flow.png to view architectural design of the todo App
+```
+
 ## 💻 Usage
 
 1. Add a new todo using the input form
